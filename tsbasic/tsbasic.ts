@@ -1,2 +1,2 @@
-const a: string = 'TS BASIC'
-console.log(a)
+const a: string = 'TS BASIC WEB'
+console.log(a) 
